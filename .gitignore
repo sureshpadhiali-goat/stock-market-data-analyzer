@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+
+# Generated outputs (keep folder placeholders)
+outputs/*
+!outputs/.gitkeep
+reports/*
+!reports/.gitkeep
+images/*
+!images/.gitkeep
+
+# Notebook checkpoints
+.ipynb_checkpoints/
